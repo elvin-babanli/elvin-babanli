@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Elvin Babanli – a Computer Engineering student and a passionate problem solver who enjoys creating practical and creative solutions with code.🔹 Main focus:<br><br>Specializing in Python<br><br>Building valuable and efficient applications<br><br>Creating software integrated with Artificial Intelligence<br><br>Becoming highly skilled in PostgreSQL<br><br>💻 Technologies I’ve worked with:<br><br>Languages: Python, JavaScript, C#, SQL, PostgreSQL<br><br>Web Development: HTML, CSS, React, Node.js, MongoDB<br><br>Other Skills: Git/GitHub, REST APIs, Data Visualization, UML & System Design<br><br>
+Hi, I’m Elvin Babanli – a Computer Engineering student and a passionate problem solver who enjoys creating practical and creative solutions with code.<br><br>🔹 Main focus:<br><br>Specializing in Python<br><br>Building valuable and efficient applications<br><br>Creating software integrated with Artificial Intelligence<br><br>Becoming highly skilled in PostgreSQL<br><br>💻 Technologies I’ve worked with:<br><br>Languages: Python, JavaScript, C#, SQL, PostgreSQL<br><br>Web Development: HTML, CSS, React, Node.js, MongoDB<br><br>Other Skills: Git/GitHub, REST APIs, Data Visualization, UML & System Design<br><br>
 
 
 ## 🌐 Socials:
